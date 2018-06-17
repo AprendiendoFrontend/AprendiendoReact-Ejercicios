@@ -1,0 +1,31 @@
+{
+  "name": "aprendiendo-react-ejercicios",
+  "description": "Ejercicios diseñados para afianzar todos los conceptos que enseñamos en el curso Aprendiendo react de Udemy",
+  "version": "0.1.0",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Miguel Ángel Durán",
+      "email": "miduga@gmail.com"
+    },
+    {
+      "name": "David Garcia",
+      "email": "dave74@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "prop-types": "15.6.0",
+    "react": "16",
+    "react-dom": "16",
+    "react-router-dom": "4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
