@@ -14,6 +14,8 @@
     }
   ],
   "dependencies": {
+    "@s-ui/react-services-markdown": "^1.3.0",
+    "classnames": "2.2.6",
     "prop-types": "15.6.0",
     "react": "16",
     "react-dom": "16",

@@ -1,0 +1,23 @@
+.app-nav {
+  width: 90%;
+}
+
+.nav-item {
+  -webkit-appearance: none;
+  border: 1px solid #888888;
+  cursor: pointer;
+  margin-left: 2px;
+  padding: 8px;
+}
+
+.nav-item--selected {
+  background-color: coral;
+}
+
+.nav-item:focus {
+  outline: 0;
+}
+
+.nav-item--selected:focus {
+  outline: 0;
+}

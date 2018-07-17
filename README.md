@@ -1,6 +1,7 @@
 
 # Ejercicios prácticos del curso Aprendiendo React
 ![Portada](https://raw.githubusercontent.com/AprendiendoFrontend/AprendiendoReact-Ejercicios/master/public/images/UDEMY-portada.png "Portada")
+===
 En este repositorio encontrarás una serie de ejercicios que te servirán para afianzar los conceptos que has ido aprendiendo durante [el curso](https://www.udemy.com/aprendiendo-react/) y sobretodo para practicarlos.
 
 Cada ejercicio consta de una descripción, una guía paso a paso en la que se explica detalladamente la ejecución del ejercicio y otra sección con el resultado final.
